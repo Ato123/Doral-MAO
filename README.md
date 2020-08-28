@@ -4,6 +4,14 @@ Here you can find the rankings for each student based off of their practice pref
 # Overall
 
 <h3> Algebra 1 </h3>
+<h3> Geometry </h3>
+<h3> Algebra 2 </h3>
+<h3> Precalculus </h3>
+<h3> Calculus </h3>
+
+# Last Practice
+
+<h3> Algebra 1 </h3>
 
 1 Glenn Garcia -5
 
@@ -26,11 +34,5 @@ Here you can find the rankings for each student based off of their practice pref
 3 Daniel 110
 
 4 I Sux 60
-# Last Practice
 
-<h3> Algebra 1 </h3>
-<h3> Geometry </h3>
-<h3> Algebra 2 </h3>
-<h3> Precalculus </h3>
-<h3> Calculus </h3>
-
+edit
