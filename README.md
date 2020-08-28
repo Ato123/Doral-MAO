@@ -10,6 +10,7 @@ Here you can find the rankings for each student based off of their practice pref
 <h3> Calculus </h3>
 
 # Last Practice
+___________________________________________________________________________________________________________________________________
 
 <h3> Algebra 1 </h3>
 
