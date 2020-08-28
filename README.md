@@ -17,9 +17,13 @@ Here you can find the rankings for each student based off of their practice pref
 
 <h3> Calculus </h3>
 1 Best Guy 150
+
 2 Pretty Good 125
+
 2 Also Good 125
+
 3 Daniel 110
+
 4 I Sux 60
 
 # Last Practice
