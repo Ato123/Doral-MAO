@@ -1,6 +1,6 @@
 
 # Doral MAO Leaderboards
-<font size="+2">Here you can find the rankings for each student based off of their practice preformance</font>
+Here you can find the rankings for each student based off of their practice preformance
 
 ## Overall
 
@@ -10,7 +10,7 @@
 ### Precalculus 
 ### Calculus 
 
-<p> <\p>
+____________________________________________________________________
 
 #### Last Practice
 
