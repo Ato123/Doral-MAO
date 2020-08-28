@@ -1,4 +1,4 @@
-# Doral-MAO
+# Doral MAO Leaderboards
 Here you can find the rankings for each student based off of their practice preformance
 
 # Overall
