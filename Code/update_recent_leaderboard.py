@@ -34,7 +34,7 @@ if eind == -1:
 del lines[sind+1:eind-1]
 
 count = 0
-lines.insert(sind+1, '\n')
+lines.insert(sind+1, '<br></br>')
 sind += 1
 for line in open(directory+'/Student_Rankings_Recent/'+div+'.txt'):
     spl = line.split(' ')
