@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update_total_leaderboard">
+  <component name="RunManager" selected="Python.update_recent_leaderboard (1)">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project Github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,9 +192,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.update_total_leaderboard" />
         <item itemvalue="Python.rank_students_overall (1)" />
-        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.update_recent_leaderboard" />
         <item itemvalue="Python.rank_students_overall" />
       </list>
@@ -223,21 +223,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598653505316">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598653861889">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598653505316" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598653505315">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598653861889" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598653861889">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598653505315">
+    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598653861889" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598653861888">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598653505315">
+    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598653861888" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598653861889">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598653861889" />
   </component>
 </project>
