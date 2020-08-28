@@ -29,8 +29,20 @@ Here you can find the rankings for each student based off of their practice pref
 </br>
 </details><details>
 <summary> Algebra 2 </summary></br>
+
+<b>1 -</b> Sean Conway: 100.0
+
+</br>
+
+<b>2 -</b> Albert Epstein: 99.99
+
+</br>
 </details><details>
 <summary> Precalculus </summary></br>
+
+<b>1 -</b> Alberto Alvarez: -1
+
+</br>
 </details> <details>
 <summary> Calculus </summary></br>
 
@@ -72,6 +84,9 @@ ____________________________________________________________________
 </br>
 </details><details>
 <summary> Algebra 2 </summary></br>
+
+None
+</br>
 </details><details>
 <summary> Precalculus </summary></br>
 

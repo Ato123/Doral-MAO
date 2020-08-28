@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update_recent_leaderboard (1)">
+  <component name="RunManager" selected="Python.update_total_leaderboard">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project Github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.update_total_leaderboard" />
+        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.rank_students_overall (1)" />
         <item itemvalue="Python.update_recent_leaderboard" />
         <item itemvalue="Python.rank_students_overall" />
