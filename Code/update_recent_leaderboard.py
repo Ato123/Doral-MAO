@@ -37,7 +37,7 @@ del lines[sind+1:eind]
 
 for line in open(directory+'/Student_Rankings_Recent/'+div+'.txt'):
     spl = line.split(' ')
-    lines.insert(sind+1, f'\n<h2>{spl[0]}</h2> <b>{spl[1]}</b> {spl[2]} {spl[3]}')
+    lines.insert(sind+1, f'\n<p{{font-size: 24;}}>{spl[0]}</p> <b{{font-size: 20;}}>{spl[1]} {spl[2]}</b> {spl[3]}')
     sind += 1
 
 open(directory+'/README.md', 'w').close()

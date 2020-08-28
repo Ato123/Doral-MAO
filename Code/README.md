@@ -13,17 +13,27 @@ Here you can find the rankings for each student based off of their practice pref
 
 <h3> Algebra 1 </h3>
 
-<h2>1</h2> <b>Glenn</b> Garcia -5
+<p{font-size: 24;}>1</p> <b{font-size: 20;}>Glenn Garcia</b> -5
 
-<h2>2</h2> <b>Ms</b> Fragoso -9
+<p{font-size: 24;}>2</p> <b{font-size: 20;}>Ms Fragoso</b> -9
 <h3> Geometry </h3>
 
-<h2>1</h2> <b>greg</b> heffly 0
+<p{font-size: 24;}>1</p> <b{font-size: 20;}>greg heffly</b> 0
 
-<h2>2</h2> <b>d</b> d -1111
+<p{font-size: 24;}>2</p> <b{font-size: 20;}>d d</b> -1111
 <h3> Algebra 2 </h3>
 <h3> Precalculus </h3>
 <h3> Calculus </h3>
+
+<p{font-size: 24;}>1</p> <b{font-size: 20;}>Best Guy</b> 150
+
+<p{font-size: 24;}>2</p> <b{font-size: 20;}>Pretty Good</b> 125
+
+<p{font-size: 24;}>2</p> <b{font-size: 20;}>Also Good</b> 125
+
+<p{font-size: 24;}>3</p> <b{font-size: 20;}>Daniel roadillam-fluxcapacitor</b> 110
+
+<p{font-size: 24;}>4</p> <b{font-size: 20;}>I Sux</b> 60
 
 <h2>1</h2> <b>Best</b> Guy 150
 
