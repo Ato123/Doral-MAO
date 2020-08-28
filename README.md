@@ -25,11 +25,10 @@ ____________________________________________________________________
 #### Last Practice
 <details>
 <summary> Algebra 1 </summary>
-</br>
-<b>1 -</b> Glenn Garcia: -5 </br>
-
-
-<b>2 -</b> Ms Fragoso: -9 </br>
+<br>
+<b>1 -</b> Glenn Garcia: -5
+<br>
+<b>2 -</b> Ms Fragoso: -9
 
 </details><details>
 <summary> Geometry </summary>
