@@ -1,37 +1,21 @@
+
 # Doral MAO Leaderboards
-Here you can find the rankings for each student based off of their practice preformance
+<font size="+2">Here you can find the rankings for each student based off of their practice preformance</font>
 
-# Overall
+## Overall
 
-<h3> Algebra 1 </h3>
-<h3> Geometry </h3>
-<h3> Algebra 2 </h3>
-<h3> Precalculus </h3>
-<h3> Calculus </h3>
+### Algebra 1
+### Geometry 
+### Algebra 2 
+### Precalculus 
+### Calculus 
 
-# Last Practice
-__________________________________________________________________________________________________________________________________________________________________
-<h3> Algebra 1 </h3>
+<p> <\p>
 
-<b>1</b> Glenn Garcia with a -5
+#### Last Practice
 
-<b>2</b> Ms Fragoso with a -9
-<h3> Geometry </h3>
-
-<b>1</b> greg heffly with a 0
-
-<b>2</b> d d with a -1111
-<h3> Algebra 2 </h3>
-<h3> Precalculus </h3>
-<h3> Calculus </h3>
-
-<b>1</b> Best Guy with a 150
-
-<b>2</b> Pretty Good with a 125
-
-<b>2</b> Also Good with a 125
-
-<b>3</b> Daniel roadillam-fluxcapacitor with a 110
-
-<b>4</b> I Sux with a 60
-
+##### Algebra 1
+##### Geometry 
+##### Algebra 2 
+##### Precalculus 
+##### Calculus 
