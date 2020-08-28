@@ -20,9 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9f88b06-5390-4377-8a90-55799ca4c170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Code/update_total_leaderboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Recent/calc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Recent/calc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Total/alg1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Total/alg1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Total/alg2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Total/alg2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Total/calc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Total/calc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Total/geo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Total/geo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Student_Rankings_Total/precal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Student_Rankings_Total/precal.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TEMPLATE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -57,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update_recent_leaderboard (1)">
+  <component name="RunManager" selected="Python.update_total_leaderboard">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project Github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="overall_t_scores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rank_students_overall (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project Github" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overall_t_scores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/rank_students_overall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,27 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rank_students_overall.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="season_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project Github" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/season_reset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,13 +169,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="update_total_leaderboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/update_total_leaderboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_total_leaderboard" />
+        <item itemvalue="Python.rank_students_overall (1)" />
         <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.update_recent_leaderboard" />
         <item itemvalue="Python.rank_students_overall" />
-        <item itemvalue="Python.overall_t_scores" />
-        <item itemvalue="Python.season_reset" />
       </list>
     </recent_temporary>
   </component>
@@ -217,21 +223,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598651311047">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598653505316">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598651311047" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598651311046">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598653505316" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598653505315">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598651311046" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598651311046">
+    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598653505315">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598651311046" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598651311046">
+    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598653505315">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598651311046" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598653505315" />
   </component>
 </project>
