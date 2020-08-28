@@ -4,16 +4,16 @@ Here you can find the rankings for each student based off of their practice pref
 
 ## Overall
 <details>
-  <summary><u> Algebra 1 </u></summary></br>
-</br></details><details>
+<summary> Algebra 1 </summary></br>
+</details><details>
 <summary> Geometry </summary></br>
-</br></details><details>
+</details><details>
 <summary> Algebra 2 </summary></br>
-</br></details><details>
+</details><details>
 <summary> Precalculus </summary></br>
-</br></details> <details>
+</details> <details>
 <summary> Calculus </summary></br>
-</br></details>
+</details>
 
 ____________________________________________________________________
 
@@ -28,7 +28,7 @@ ____________________________________________________________________
 <b>2 -</b> Ms Fragoso: -9
 
 </br>
-</br></details><details>
+</details><details>
 <summary> Geometry </summary></br>
 
 <b>1 -</b> Greg Heffly: 0
@@ -38,17 +38,17 @@ ____________________________________________________________________
 <b>2 -</b> D D: -1111
 
 </br>
-</br></details><details>
+</details><details>
 <summary> Algebra 2 </summary></br>
 
 None
 </br>
-</br></details><details>
+</details><details>
 <summary> Precalculus </summary></br>
 
 None
 </br>
-</br></details> <details>
+</details> <details>
 <summary> Calculus </summary></br>
 
 <b>1 -</b> Best Guy: 150
@@ -70,5 +70,4 @@ None
 <b>4 -</b> I Sux: 60
 
 </br>
-</br></details>
-
+</details>
