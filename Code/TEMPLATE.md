@@ -1,19 +1,32 @@
+
 # Doral MAO Leaderboards
 Here you can find the rankings for each student based off of their practice preformance
 
-# Overall
+## Overall
+<details>
+<summary> Algebra 1 </summary>
+</details><details>
+<summary> Geometry </summary>
+</details><details>
+<summary> Algebra 2 </summary>
+</details><details>
+<summary> Precal </summary>
+</details> <details>
+<summary> Calculus </summary>
+</details>
 
-<h3> Algebra 1 </h3>
-<h3> Geometry </h3>
-<h3> Algebra 2 </h3>
-<h3> Precalculus </h3>
-<h3> Calculus </h3>
+____________________________________________________________________
 
-# Last Practice
-
-<h3> Algebra 1 </h3>
-<h3> Geometry </h3>
-<h3> Algebra 2 </h3>
-<h3> Precalculus </h3>
-<h3> Calculus </h3>
+#### Last Practice
+<details>
+<summary> Algebra 1 </summary>
+</details><details>
+<summary> Geometry </summary>
+</details><details>
+<summary> Algebra 2 </summary>
+</details><details>
+<summary> Precal </summary>
+</details> <details>
+<summary> Calculus </summary>
+</details>
 
