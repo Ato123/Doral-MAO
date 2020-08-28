@@ -20,18 +20,18 @@ for i in range(len(abbr)):
 
 sind = -1
 for i in range(len(lines)):
-    if full[div] in lines[-i-1]:
-        sind = -i-1+len(lines)
+    if full[div] in lines[i]:
+        sind = i
 
 eind = -1
 if idiv != len(abbr)-1:
     for i in range(len(lines)):
-        if full[abbr[idiv+1]] in lines[-i-1]:
-            eind = -i-1+len(lines)
+        if full[abbr[idiv+1]] in lines[i]:
+            eind = i
 if eind == -1:
     for i in range(len(lines)):
-        if 'Last Practice' in lines[-i-1]:
-            eind = -i-1+len(lines)
+        if 'Last Practice' in lines[i]:
+            eind = i
 
 del lines[sind+1:eind]
 
@@ -43,3 +43,6 @@ open(directory+'/README.md', 'w').close()
 write = open(directory+'/README.md', 'w')
 write.writelines(lines)
 write.close()
+
+with open(directory+'/README.md', 'r') as copy, open(directory[:-4]+'README.md', 'w') as paste:
+    paste.write(copy.read())
