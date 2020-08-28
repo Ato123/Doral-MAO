@@ -25,6 +25,7 @@ ____________________________________________________________________
 #### Last Practice
 <details>
 <summary> Algebra 1 </summary>
+<<<<<<< HEAD
 </br>
 <b>1 -</b> Glenn Garcia: -5
 
@@ -32,10 +33,19 @@ ____________________________________________________________________
 <b>2 -</b> Ms Fragoso: -9
 
 </br></br></br></details><details>
+=======
+  </br>
+  <b>1 -</b> Glenn Garcia: -5
+  </br></br>
+  <b>2 -</b> Ms Fragoso: -9
+
+</details><details>
+>>>>>>> ef67b2953befaf606f9beaf642d81485b2ccc9cb
 <summary> Geometry </summary>
 </br>
 <b>1 -</b> Greg Heffly: 0
 
+<<<<<<< HEAD
 </br>
 <b>2 -</b> D D: -1111
 
@@ -49,11 +59,25 @@ None
 </br>
 None
 </br>
+=======
+
+<b>2 -</b> D D: -1111
+
+</details><details>
+<summary> Algebra 2 </summary>
+<br></br>
+None
+NoneNone</details><details>
+<summary> Precalculus </summary>
+  </br>
+  None
+>>>>>>> ef67b2953befaf606f9beaf642d81485b2ccc9cb
 </details> <details>
 <summary> Calculus </summary>
 </br>
 <b>1 -</b> Best Guy: 150
 
+<<<<<<< HEAD
 </br>
 <b>2 -</b> Pretty Good: 125
 
@@ -67,4 +91,18 @@ None
 <b>4 -</b> I Sux: 60
 
 </br></br></br></details>
+=======
 
+<b>2 -</b> Pretty Good: 125
+
+
+<b>2 -</b> Also Good: 125
+
+
+<b>3 -</b> Daniel Roadillam-fluxcapacitor: 110
+
+
+<b>4 -</b> I Sux: 60
+>>>>>>> ef67b2953befaf606f9beaf642d81485b2ccc9cb
+
+</details>
