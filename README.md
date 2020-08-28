@@ -4,7 +4,7 @@ Here you can find the rankings for each student based off of their practice pref
 
 ## Overall
 <details>
-<summary> Algebra 1 </summary></br>
+  <summary><u> Algebra 1 </u></summary></br>
 </br></details><details>
 <summary> Geometry </summary></br>
 </br></details><details>
