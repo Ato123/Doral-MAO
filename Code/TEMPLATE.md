@@ -10,7 +10,7 @@ Here you can find the rankings for each student based off of their practice pref
 </details><details>
 <summary> Algebra 2 </summary>
 </details><details>
-<summary> Precal </summary>
+<summary> Precalculus </summary>
 </details> <details>
 <summary> Calculus </summary>
 </details>
@@ -25,7 +25,7 @@ ____________________________________________________________________
 </details><details>
 <summary> Algebra 2 </summary>
 </details><details>
-<summary> Precal </summary>
+<summary> Precalculus </summary>
 </details> <details>
 <summary> Calculus </summary>
 </details>

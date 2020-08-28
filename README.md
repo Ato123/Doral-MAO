@@ -1,3 +1,39 @@
+
+# Doral MAO Leaderboards
+Here you can find the rankings for each student based off of their practice preformance
+
+## Overall
+<details>
+<summary> Algebra 1 </summary>
+</details><details>
+<summary> Geometry </summary>
+</details><details>
+<summary> Algebra 2 </summary>
+</details><details>
+<summary> Precalculus </summary>
+</details> <details>
+<summary> Calculus </summary>
+</details>
+
+____________________________________________________________________
+
+#### Last Practice
+<details>
+<summary> Algebra 1 </summary>
+
+<b>1 -</b> Glenn Garcia: -5
+
+<b>2 -</b> Ms Fragoso: -9
+</details><details>
+<summary> Geometry </summary>
+
+<b>1 -</b> Greg Heffly: 0
+
+<b>2 -</b> D D: -1111
+</details><details>
+<summary> Algebra 2 </summary>
+</details><details>
+<summary> Precalculus </summary>
 </details> <details>
 <summary> Calculus </summary>
 
