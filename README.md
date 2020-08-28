@@ -1,6 +1,5 @@
 # Doral-MAO
 Here you can find the rankings for each student based off of their practice preformance
-edit2
 
 # Overall
 
