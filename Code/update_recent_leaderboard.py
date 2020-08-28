@@ -29,9 +29,7 @@ if idiv != len(abbr)-1:
         if full[abbr[idiv+1]] in lines[i]:
             eind = i
 if eind == -1:
-    for i in range(len(lines)):
-        if 'Last Practice' in lines[i]:
-            eind = i
+    ein = len(lines)
 
 del lines[sind+1:eind]
 
