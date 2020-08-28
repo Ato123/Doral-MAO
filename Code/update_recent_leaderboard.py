@@ -34,11 +34,9 @@ if eind == -1:
 del lines[sind+1:eind-1]
 
 count = 0
-lines.insert(sind+1, '</br>')
-sind += 1
 for line in open(directory+'/Student_Rankings_Recent/'+div+'.txt'):
     spl = line.split(' ')
-    lines.insert(sind+1, f'\n<b>{spl[0]} -</b> {spl[1][0].upper()+spl[1][1:].lower()} {spl[2][0].upper()+spl[2][1:].lower()}: {spl[3]}\n</br>')
+    lines.insert(sind+1, f'\n<b>{spl[0]} -</b> {spl[1][0].upper()+spl[1][1:].lower()} {spl[2][0].upper()+spl[2][1:].lower()}: {spl[3]}\n</br>\n')
     sind += 1
     count += 1
 if count == 0:
