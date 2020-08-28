@@ -1,3 +1,5 @@
+# Complete and working ranking systems for the entire season
+
 import os
 
 directory = os.path.dirname(os.path.abspath('rank_students_overall.py'))
