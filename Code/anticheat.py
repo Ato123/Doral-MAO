@@ -51,7 +51,7 @@ cheaters = open(directory+'/Cheaters/'+div+'.txt', 'r')
 cheaters.write('Difference Threshold: '+str(dif)+'\n')
 for name in name_score.keys():
     if name in name_tscore.keys():
-        tscore = (name_score-mean)/sigma
+        tscore = (name_score[name]-mean)/sigma
         tscore = 10*tscore+50
 
         if tscore - name_tscore[name] >= dif:
