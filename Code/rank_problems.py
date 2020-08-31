@@ -5,7 +5,7 @@ import glob
 
 directory = os.path.dirname(os.path.abspath('rank_problems.py'))
 
-print('format for divisions: alg1, geo, alg2, precal, calc')
+print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being ranked right now?')
 div = input()
 

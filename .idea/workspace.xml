@@ -20,8 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9f88b06-5390-4377-8a90-55799ca4c170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/anticheat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/anticheat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/anticheat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/enter_submissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/enter_submissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/overall_t_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/overall_t_scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/rank_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/rank_students_from_recent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_students_from_recent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/rank_students_overall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_students_overall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/season_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/season_reset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/test_grader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/test_grader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/update_total_leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/update_total_leaderboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +66,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.anticheat">
+  <component name="RunManager" selected="Python.update_recent_leaderboard (1)">
     <configuration name="anti_cheat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,27 +151,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rank_students_overall (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project Github" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/rank_students_overall.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="rank_students_overall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,19 +193,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="update_recent_leaderboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project Github" />
+    <configuration name="update_recent_leaderboard (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/Interp/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update_recent_leaderboard.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/update_recent_leaderboard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,18 +260,18 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.default" />
       <item itemvalue="Python.rank_students_overall" />
-      <item itemvalue="Python.update_recent_leaderboard" />
       <item itemvalue="Python.update_total_leaderboard" />
       <item itemvalue="Python.anti_cheat" />
       <item itemvalue="Python.anticheat" />
+      <item itemvalue="Python.update_recent_leaderboard (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_recent_leaderboard (1)" />
+        <item itemvalue="Python.update_total_leaderboard" />
         <item itemvalue="Python.anticheat" />
         <item itemvalue="Python.anti_cheat" />
         <item itemvalue="Python.rank_students_overall" />
-        <item itemvalue="Python.rank_students_overall" />
-        <item itemvalue="Python.update_total_leaderboard" />
       </list>
     </recent_temporary>
   </component>
@@ -312,22 +303,22 @@
       <screen x="72" y="27" width="1368" height="873" />
     </state>
     <state x="214" y="27" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1368.873@72.27.1368.873" timestamp="1598881145746" />
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598881860462">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598884742809">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598881860462" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598881860462">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598884742809" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598884742808">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598881860462" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598881860461">
+    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598884742808" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598884742807">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598881860461" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598881860462">
+    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598884742807" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598884742808">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598881860462" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598884742808" />
     <state x="245" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1598881033895">
       <screen x="72" y="27" width="1368" height="873" />
     </state>

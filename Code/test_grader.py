@@ -7,7 +7,7 @@ print('MAKE SURE ANSWER FILES ARE UPDATED WITH THE RIGHT ANSWERS!!!')
 
 directory = os.path.dirname(os.path.abspath('test_grader.py'))
 
-print('format for divisions: alg1, geo, alg2, precal, calc')
+print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is currently being graded?')
 div = input()
 

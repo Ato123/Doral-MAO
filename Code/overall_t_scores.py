@@ -6,7 +6,7 @@ from math import sqrt
 
 directory = os.path.dirname(os.path.abspath('overall_t_scores.py'))
 
-print('format for divisions: alg1, geo, alg2, precal, calc')
+print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being calculated right now?')
 div = input()
 

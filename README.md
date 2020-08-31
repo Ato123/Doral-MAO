@@ -29,6 +29,11 @@ None
 None
 </br>
 </details>
+<summary> Statistics </summary></br>
+
+None
+</br>
+</details>
 
 ____________________________________________________________________
 
@@ -50,11 +55,13 @@ None
 </br>
 </details><details>
 <summary> Precalculus </summary></br>
+</details> <details>
+<summary> Calculus </summary></br>
 
 None
 </br>
-</details> <details>
-<summary> Calculus </summary></br>
+</details>
+<summary> Statistics </summary></br>
 
 None
 </br>

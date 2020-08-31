@@ -3,7 +3,7 @@ import os
 
 directory = os.path.dirname(os.path.abspath('update_total_leaderboard.py'))
 
-print('format for divisions: alg1, geo, alg2, precal, calc')
+print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being posted right now?')
 div = input()
 
@@ -11,8 +11,8 @@ readme = open(directory+'/README.md')
 lines = [line for line in readme]
 readme.close()
 
-full = {'alg1':'Algebra 1', 'geo':'Geometry', 'alg2':'Algebra 2', 'precal':'Precalculus', 'calc':'Calculus'}
-abbr = ['alg1', 'geo', 'alg2', 'precal', 'calc']
+full = {'alg1':'Algebra 1', 'geo':'Geometry', 'alg2':'Algebra 2', 'precal':'Precalculus', 'calc':'Calculus', 'stats':'Statistics'}
+abbr = ['alg1', 'geo', 'alg2', 'precal', 'calc', 'stats']
 
 idiv = -1
 for i in range(len(abbr)):

@@ -4,7 +4,7 @@ from math import sqrt
 
 directory = os.path.dirname(os.path.abspath('anti_cheat.py'))
 
-print('format for divisions: alg1, geo, alg2, precal, calc')
+print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being scanned right now?')
 div = input()
 
