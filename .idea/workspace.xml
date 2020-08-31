@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9f88b06-5390-4377-8a90-55799ca4c170" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/anticheat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/anticheat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/enter_submissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/enter_submissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/overall_t_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/overall_t_scores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/rank_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_problems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/rank_students_from_recent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_students_from_recent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/rank_students_overall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/rank_students_overall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/season_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/season_reset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/test_grader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/test_grader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/update_recent_leaderboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/update_total_leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/update_total_leaderboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +55,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update_recent_leaderboard (1)">
+  <component name="RunManager" selected="Python.update_total_leaderboard">
     <configuration name="anti_cheat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,8 +256,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.update_total_leaderboard" />
+        <item itemvalue="Python.update_recent_leaderboard (1)" />
         <item itemvalue="Python.anticheat" />
         <item itemvalue="Python.anti_cheat" />
         <item itemvalue="Python.rank_students_overall" />
@@ -303,22 +292,38 @@
       <screen x="72" y="27" width="1368" height="873" />
     </state>
     <state x="214" y="27" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1368.873@72.27.1368.873" timestamp="1598881145746" />
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598884742809">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598885446434">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598884742809" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598884742808">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598885446434" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598885446434">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598884742808" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598884742807">
+    <state width="1345" height="203" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1598885446434" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598885446433">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598884742807" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598884742808">
+    <state width="1345" height="203" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1598885446433" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598885446434">
       <screen x="72" y="27" width="1368" height="873" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598884742808" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1598885446434" />
+    <state width="1345" height="268" key="GridCell.Tab.1.bottom" timestamp="1598885279867">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.bottom/72.27.1368.873@72.27.1368.873" timestamp="1598885279867" />
+    <state width="1345" height="268" key="GridCell.Tab.1.center" timestamp="1598885279867">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.center/72.27.1368.873@72.27.1368.873" timestamp="1598885279867" />
+    <state width="1345" height="268" key="GridCell.Tab.1.left" timestamp="1598885279866">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.left/72.27.1368.873@72.27.1368.873" timestamp="1598885279866" />
+    <state width="1345" height="268" key="GridCell.Tab.1.right" timestamp="1598885279867">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.right/72.27.1368.873@72.27.1368.873" timestamp="1598885279867" />
     <state x="245" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1598881033895">
       <screen x="72" y="27" width="1368" height="873" />
     </state>

@@ -28,7 +28,7 @@ None
 
 None
 </br>
-</details>
+</details> <details>
 <summary> Statistics </summary></br>
 
 None
@@ -55,12 +55,15 @@ None
 </br>
 </details><details>
 <summary> Precalculus </summary></br>
+
+None
+</br>
 </details> <details>
 <summary> Calculus </summary></br>
 
 None
 </br>
-</details>
+</details> <details>
 <summary> Statistics </summary></br>
 
 None

@@ -13,7 +13,7 @@ Here you can find the rankings for each student based off of their practice pref
 <summary> Precalculus </summary></br>
 </details> <details>
 <summary> Calculus </summary></br>
-</details>
+</details> <details>
 <summary> Statistics </summary></br>
 </details>
 
@@ -30,7 +30,7 @@ ____________________________________________________________________
 <summary> Precalculus </summary></br>
 </details> <details>
 <summary> Calculus </summary></br>
-</details>
+</details> <details>
 <summary> Statistics </summary></br>
 </details>
 
