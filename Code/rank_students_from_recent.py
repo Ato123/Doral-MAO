@@ -1,4 +1,5 @@
 # Complete and working student ranking system for last practice test
+# Verified as of 4/29/2021
 
 import os
 import glob
@@ -9,7 +10,7 @@ print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being ranked right now?')
 div = input()
 
-print('Clear previous submissions? (y/n)')
+print('\nClear previous rankings for this division? (y/n)')
 if input().lower().strip() == 'y':
     open(directory+'/Student_Rankings_Recent/'+div+'.txt', 'w').close()
 
@@ -23,7 +24,7 @@ size = 0
 
 for graded in glob.glob(directory+'/Graded_Submissions/'+div+'/*'):
     score = int(open(graded).readline())
-    name = graded[graded.rindex('/')+1:-4]
+    name = graded[graded.rindex('\\')+1:-4]
 
     name_score[name] = score
     scores.append(score)

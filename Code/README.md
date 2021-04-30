@@ -26,7 +26,8 @@ None
 </details> <details>
 <summary> Calculus </summary></br>
 
-None
+<b>1 -</b> Alberto Alvarez: 50.0
+
 </br>
 </details> <details>
 <summary> Statistics </summary></br>
@@ -61,7 +62,8 @@ None
 </details> <details>
 <summary> Calculus </summary></br>
 
-None
+<b>1 -</b> Alberto Alvarez: 130
+
 </br>
 </details> <details>
 <summary> Statistics </summary></br>

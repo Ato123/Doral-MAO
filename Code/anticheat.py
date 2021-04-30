@@ -8,7 +8,7 @@ print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being scanned right now?')
 div = input()
 
-print('What difference threshold do you want to detect?')
+print('How much T-score gain do you consider cheating?')
 dif = float(input())
 
 recent = open(directory+'/Student_Rankings_Recent/'+div+'.txt', 'r')
@@ -35,19 +35,21 @@ sigma = 0
 for score in name_score.values():
     sigma += (score-mean)**2
 sigma = sqrt(sigma/size)
+if sigma == 0:
+    sigma = 1
 
-overall = open(directory+'/Student_Rankings_Recent/'+div+'.txt', 'r')
+overall = open(directory+'/Student_Rankings_Total/'+div+'.txt', 'r')
 
 name_tscore = dict()
 
 for line in overall:
     spl = line.split(' ')
     name = spl[1]+' '+spl[2]
-    tscore = float(line[3])
+    tscore = float(spl[3])
 
     name_tscore[name] = tscore
 
-cheaters = open(directory+'/Cheaters/'+div+'.txt', 'r')
+cheaters = open(directory+'/Cheaters/'+div+'.txt', 'w')
 cheaters.write('Difference Threshold: '+str(dif)+'\n')
 for name in name_score.keys():
     if name in name_tscore.keys():

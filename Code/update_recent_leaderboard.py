@@ -1,4 +1,5 @@
 # Complete and working leaderboard updater for results from the most recent test
+# Verified as of 4/29/2021
 
 import os
 

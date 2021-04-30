@@ -1,3 +1,72 @@
+enter_submissions input:
+calc
+Alberto Alvarez
+abcdexabcdexabcdexabcdexabcdex
+
+Test_Answers -> calc.txt should contain the following answer key:
+abcdedabcdedabcdedabcdedabcded
+
+test_grader output (Graded_Submissions -> calc -> alberto alvarez.txt):
+130
+rrrrrbrrrrrbrrrrrbrrrrrbrrrrrb
+
+rank_problems output (Problem_Rankings -> calc.txt):
+1 6
+1 12
+1 18
+1 24
+1 30
+6 1
+6 2
+6 3
+6 4
+6 5
+6 7
+6 8
+6 9
+6 10
+6 11
+6 13
+6 14
+6 15
+6 16
+6 17
+6 19
+6 20
+6 21
+6 22
+6 23
+6 25
+6 26
+6 27
+6 28
+6 29
+
+rank_students_from_recent output (Student_Rankings_Recent -> calc.txt):
+1 Alberto Alvarez 130
+
+anticheat input:
+0
+
+anticheat output (Cheaters -> calc.txt):
+Difference Threshold: 0.0
+Alberto Alvarez - overall: 50.0 - last test: 50.0
+
+overall_t_scores output (Student_T_Scores -> calc.txt):
+Alberto Alvarez 50.0 1
+
+rank_students_overall output (Student_Rankings_Total -> calc.txt):
+1 Alberto Alvarez 50.0
+
+
+
+
+
+
+
+update_recent_leaderboard and update_total_leaderboard output (README.md outside of Code folder):
+
+
 
 # Doral MAO Leaderboards
 Here you can find the rankings for each student based off of their practice preformance

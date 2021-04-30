@@ -1,7 +1,9 @@
 # Complete and working problem ranker
+# Verified as of 4/29/2021
 
 import os
 import glob
+
 
 directory = os.path.dirname(os.path.abspath('rank_problems.py'))
 
@@ -9,7 +11,7 @@ print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being ranked right now?')
 div = input()
 
-print('Clear previous submissions? (y/n)')
+print('\nClear previous rankings for this division? (y/n)')
 if input().lower().strip() == 'y':
     open(directory+'/Problem_Rankings/'+div+'.txt', 'w').close()
 
@@ -27,6 +29,7 @@ for sub in glob.glob(directory+'/Graded_Submissions/'+div+'/*'):
         score[i] += scoring[ans[i]]
 
 tosort = sorted(score.copy())
+
 aux = score.copy()
 ranked = [0]*30
 
@@ -39,7 +42,7 @@ rankval = [0]*30
 rankval[0] = 1
 
 for i in range(1, 30):
-    if ranked[i] == ranked[i-1]:
+    if score[ranked[i]-1] == score[ranked[i-1]-1]:
         rankval[i] = rankval[i-1]
     else:
         rankval[i] = i+1

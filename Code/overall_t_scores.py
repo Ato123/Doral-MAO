@@ -1,4 +1,5 @@
 # Complete and working T-score calculator
+# Verified as of 4/29/2021
 
 import os
 import glob
@@ -17,7 +18,9 @@ sum = 0
 
 for grade in glob.glob(directory+'/Graded_Submissions/'+div+'/*'):
     score = int(open(grade).readline())
-    name = grade[grade.rindex('/') + 1:-4]
+    name = grade[grade.rindex('\\') + 1:-4]
+
+    print(name, score)
 
     scoremap[name] = score
     size += 1
@@ -30,6 +33,9 @@ for score in scoremap.values():
 
 sigma /= size
 sigma = sqrt(sigma)
+
+if sigma == 0:
+    sigma = 1
 
 tscore = dict()
 for name in scoremap.keys():

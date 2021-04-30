@@ -1,4 +1,5 @@
 # Complete and working ranking systems for the entire season
+# Verified as of 4/29/2021
 
 import os
 
@@ -8,7 +9,7 @@ print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is being ranked right now?')
 div = input()
 
-print('Clear previous submissions? (y/n)')
+print('\nClear previous rankings for this division? (y/n)')
 if input().lower().strip() == 'y':
     open(directory + '/Student_Rankings_Total/' + div + '.txt', 'w').close()
 

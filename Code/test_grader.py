@@ -1,7 +1,9 @@
 # Complete and working test grader
+# Verified as of 4/29/2021
 
 import os
 import glob
+
 
 print('MAKE SURE ANSWER FILES ARE UPDATED WITH THE RIGHT ANSWERS!!!')
 
@@ -11,7 +13,7 @@ print('format for divisions: alg1, geo, alg2, precal, calc, stats')
 print('What division is currently being graded?')
 div = input()
 
-print('Clear previous submissions? (y/n)')
+print('\nClear previous grades for this division? (y/n)')
 if input().lower().strip() == 'y':
     for f in glob.glob(directory+'/Graded_Submissions/'+div+'/*'):
         os.remove(f)
@@ -20,9 +22,9 @@ ans = open(directory+'/Test_Answers/'+div+'.txt').readline()
 
 print('Grading...')
 
-for f in glob.glob(directory+'/Moodle_Submissions/'+div+'/*'):
+for f in glob.glob(directory+'/Student_Submissions/'+div+'/*'):
     sub = open(f).readline()
-    filename = f[f.rindex('/')+1:]
+    filename = f[f.rindex('\\')+1:]
 
     print('grading', filename)
 
