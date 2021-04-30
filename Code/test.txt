@@ -1,10 +1,17 @@
-enter_submissions input:
-calc
-Alberto Alvarez
-abcdexabcdexabcdexabcdexabcdex
 
 Test_Answers -> calc.txt should contain the following answer key:
 abcdedabcdedabcdedabcdedabcded
+
+enter_submissions input:
+calc
+
+y
+
+Alberto Alvarez
+abcdexabcdexabcdexabcdexabcdex
+
+enter_submissions output (Student_Submissions -> calc -> alberto alvarez.txt):
+abcdexabcdexabcdexabcdexabcdex
 
 test_grader output (Graded_Submissions -> calc -> alberto alvarez.txt):
 130
@@ -43,20 +50,19 @@ rank_problems output (Problem_Rankings -> calc.txt):
 6 29
 
 rank_students_from_recent output (Student_Rankings_Recent -> calc.txt):
-1 Alberto Alvarez 130
+1 alberto alvarez 130
 
 anticheat input:
 0
 
 anticheat output (Cheaters -> calc.txt):
 Difference Threshold: 0.0
-Alberto Alvarez - overall: 50.0 - last test: 50.0
 
 overall_t_scores output (Student_T_Scores -> calc.txt):
-Alberto Alvarez 50.0 1
+alberto alvarez 50.0 1
 
 rank_students_overall output (Student_Rankings_Total -> calc.txt):
-1 Alberto Alvarez 50.0
+1 alberto alvarez 50.0
 
 
 

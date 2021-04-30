@@ -11,7 +11,8 @@ Procedures for each division:
 3) Run rank_problems.py
 4) Run rank_students_from_recent.py
 5) Run anticheat.py
-6) Run rank_students_overall.py
+6) Run overall_t_score.py
+7) Run rank_students_overall.py
 
 After going through with the data parsing procedures, update the leaderboard:
 1) Run update_recent_leaderboard.py
