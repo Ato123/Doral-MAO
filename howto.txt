@@ -1,3 +1,31 @@
-# HOW TO USE
+# HOW TO USE #
 
-1) Download all the Moodle
+Setup:
+1) Put the answer key in Problem_Rankings folder for each division
+2) Make sure you have access to the github and have the ability to commit and push changes
+3) Make sure Python 3 is installed on the computer
+
+Procedures for each division:
+1) Input scores using enter_submissions.py
+2) Run test_grader.py
+3) Run rank_problems.py
+4) Run rank_students_from_recent.py
+5) Run anticheat.py
+6) Run rank_students_overall.py
+
+After going through with the data parsing procedures, update the leaderboard:
+1) Run update_recent_leaderboard.py
+2) Run update_total_leaderboard.py
+3) Commit & push changes to the github
+
+# SPECIFICATIONS #
+
+To archive the leaderboard (typically at the start of each quarter), run season_reset.py
+Also handy for clearing all files after a test data set (especially if you're the only dev alberto alvarez)
+
+Anticheat system detects cheaters based on sudden boosts in t-score by some specified margin.
+So running it at the start of each season is unnecessary since everybody will be considered a cheater.
+However if you do suspect someone of cheating, ask them to solve the hardest problem that they got right.
+If they look like they're BS-ing it, then looks like you caught a dirty little cheater.
+
+The hardest problems for each test are located in the Problem_Rankings folder

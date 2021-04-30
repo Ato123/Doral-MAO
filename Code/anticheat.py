@@ -1,3 +1,6 @@
+# Complete and working cheat detection system based on sudden increase in t-score
+# Verified as of 4/29/2021
+
 
 import os
 from math import sqrt
