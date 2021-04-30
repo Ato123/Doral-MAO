@@ -32,6 +32,7 @@ for f in glob.glob(directory+'/Student_Submissions/'+div+'/*'):
 
     score = 0
     checked = ''
+    wrongs = []
     for i in range(30):
         if sub[i] == ans[i]:
             score += 5
@@ -41,8 +42,12 @@ for f in glob.glob(directory+'/Student_Submissions/'+div+'/*'):
             checked += 'b'
         else:
             checked += 'w'
+            wrongs.append(i+1)
     graded.write(str(score))
     graded.write('\n'+checked)
+
+    for wrong in wrongs:
+        graded.write('\n'+str(wrong))
 
     print(score)
 
